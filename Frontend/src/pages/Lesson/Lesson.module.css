@@ -1,0 +1,14 @@
+.Lesson{
+    max-width: 1488px;
+    margin: 100px auto;
+}
+
+
+
+.Lesson p{
+    font-size: 24px;
+}
+
+.Lesson button{
+    font-size: 18px;
+}

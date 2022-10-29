@@ -1,0 +1,22 @@
+.teacher{
+    max-width: 1488px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+.teacher > h1{
+    text-align: center;
+
+}
+
+.teacher header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.headerButton{
+    height: 50px;
+}

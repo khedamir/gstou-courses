@@ -1,0 +1,26 @@
+
+.question{
+    border: 1px solid #1976d200;
+
+    border-radius: 8px;
+    padding: 26px 24px;
+    margin: 16px 0;
+    box-shadow: 0px 0px 10px #1976d294;
+}
+
+.question h3{
+    margin: 0;
+    margin-bottom: 18px;
+    font-size: 24px;
+}
+
+
+.question span{
+    font-size: 22px;
+    margin-left: 8px;
+}
+
+
+.test button{
+    margin: 18px 0;
+}

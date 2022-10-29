@@ -1,0 +1,45 @@
+.AddCourse{
+    margin: 100px auto;
+    /* padding: 100px 0; */
+    max-width: 1488px;
+    display: flex;
+    flex-direction: column;
+}
+
+.AddCourse button{
+    font-size: 20px;
+}
+
+.ButtonPublish{
+    position: fixed;
+    top: 60px;
+    right: calc((100vw - 1505px) / 2);
+    color: #fff;
+    background-color: rgb(185, 32, 52);
+    border: none;
+    padding: 26px 24px 16px;
+    border-radius: 5px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.ButtonPublish:hover{
+    background-color: rgb(253, 144, 158);
+    color: rgb(185, 32, 52);
+}
+
+.AddCourse label{
+    font-size: 22px;
+}
+
+.AddCourse label{
+    margin-top: 26px;
+}
+
+.TextArea{
+    height: 300px;
+}
+
+.CKEditor p{
+    height: 400px;
+}

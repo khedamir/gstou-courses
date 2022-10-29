@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.mainTitle{
+    text-align: center;
+    font-size: 76px;
+    margin: 0;
+    background-color: rgba(256, 256, 256, 0.5);
+    width: 100%;
+    padding: 16px;
+    color: rgb(37, 37, 37);
+}
+
+.mainItems{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.mainItem{
+    background-color: #1976d2;
+    margin: 36px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.mainItem a{
+    text-decoration: none;
+    display: block;
+    padding: 64px;
+    color: beige;
+    font-size: 32px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.mainHeader{
+    background: url("https://idei.club/uploads/posts/2021-11/1636986672_7-idei-club-p-interer-ofisa-v-stile-khai-tek-interer-kra-7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 65vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}

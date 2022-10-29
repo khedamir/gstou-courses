@@ -1,0 +1,13 @@
+
+.active{
+    color: rgb(185, 32, 52) !important;
+}
+
+.Navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+    width: 50px;
+}

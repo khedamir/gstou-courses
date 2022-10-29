@@ -1,0 +1,38 @@
+.Student{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 1488px;
+    margin: 0 auto;
+}
+
+.StudentNav{
+    width: 100%;
+    padding: 0;
+}
+
+
+.StudentNav p{
+    color:#ffffff;
+    background-color:#2a68a7;
+    font-size: 26px;
+    cursor: pointer;
+    width: 100%;
+    padding: 64px 24px;
+}
+
+.StudentNav p:hover,
+.StudentNav p:active{
+    background-color:#65a2df;
+}
+
+.StudentNav li{
+    width: 100%;
+
+}
+
+.Student ul{
+    list-style: none;
+}

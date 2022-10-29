@@ -1,0 +1,25 @@
+.Login{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.formBlock{
+    text-align: center;
+
+}
+
+.formBlock button{
+        height: 55px;
+        margin: 24px 0;
+        /* width: ; */
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    justify-content: space-between;
+}

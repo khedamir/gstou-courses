@@ -1,0 +1,33 @@
+.CourseInfo{
+    margin: 100px auto;
+    width: 1488px;
+}
+
+.CourseInfo h1{
+    text-align: center;
+}
+
+.CourseInfo hr{
+    width: 250px;
+    background-color: #1976d2;
+    border: none;
+    height: 1.8px;
+}
+
+.Items{
+    list-style: none; 
+    padding: 0;
+}
+
+.Item{
+    display: flex;
+    /* padding: 10px; */
+    /* margin: 16px 0; */
+    width: 600px;
+    justify-content: space-between;
+}
+
+.Item p{
+    font-size: 22px;
+}
+

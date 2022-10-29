@@ -1,0 +1,9 @@
+.CourseInfo{
+    margin: 100px auto;
+    width: 1488px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

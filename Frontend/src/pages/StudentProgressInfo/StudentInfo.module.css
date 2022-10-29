@@ -1,0 +1,49 @@
+hr {
+    width: 250px;
+    background-color: #1976d2;
+    border: none;
+    height: 1.8px;
+}
+
+.StudentProgress {
+    margin: 100px auto;
+    max-width: 1488px;
+}
+
+.StudentProgress h1 {
+    text-align: center;
+}
+
+.StudentProgress h2{
+    font-size: 26px;
+}
+
+.StudentProgress p{
+    font-size: 22px;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td:first-child {
+    background: #61a7ee;
+    color: white;
+    padding: 20px 20px;
+}
+
+td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+    padding: 10px 20px;
+    background: #a9ccec;
+}
+
+th:first-child,
+td:first-child {
+    text-align: left;
+}

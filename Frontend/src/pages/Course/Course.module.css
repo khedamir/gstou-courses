@@ -1,0 +1,24 @@
+.Course{
+    margin: 100px auto;
+    width: 1488px;
+}
+
+.header h1{
+    text-align: center;
+}
+
+.header h4{
+    color: #1976d2;
+}
+
+.header p{
+    font-size: 20px;
+    /* width: 1000px; */
+}
+
+
+
+.headerSection{
+    display: flex;
+    justify-content: space-between;
+}
